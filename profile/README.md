@@ -30,8 +30,6 @@ We're a group of sysadmins, sysengineers, and IT professionals who believe in sh
 - The code does not contain proprietary information or trade secrets
 - You are not uploading company-specific configurations, credentials, or sensitive data
 
-See our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ## 🚀 Getting Started
 
 1. Browse our repositories to find useful scripts and tools
@@ -66,10 +64,6 @@ Each repository should follow a clear structure:
 ## 📜 License
 
 Unless otherwise specified, all projects in this organization are released under the MIT License. Individual repositories may specify different licenses - always check the LICENSE file in each repo.
-
-## 🌟 Contributing
-
-We welcome contributions! Whether you're fixing a bug, improving documentation, or adding a new tool, your help makes this collective better for everyone. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) before submitting your first contribution.
 
 ---
 
